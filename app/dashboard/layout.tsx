@@ -14,7 +14,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                         <div className="bg-red-900 p-2 rounded-lg text-white">
                             <span className="font-bold text-xl">P</span>
                         </div>
-                        <h1 className="text-xl font-bold text-red-900">PaysaPro</h1>
+                        <h1 className="text-xl font-bold text-red-900">RAIHAN BOSS WELCOME</h1>
                     </div>
 
                     {/* Navigation Links */}

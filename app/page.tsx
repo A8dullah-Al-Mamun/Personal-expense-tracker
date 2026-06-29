@@ -13,7 +13,7 @@ export default function LoginPage() {
           <div className="bg-[#2a2a2a] p-4 rounded-2xl mb-6">
             <Wallet size={48} className="text-white" />
           </div>
-          <h1 className="text-4xl font-bold mb-2">PaysaPro</h1>
+          <h1 className="text-4xl font-bold mb-2">EXPENSE TRACKER (Boss assalamualaikum)</h1>
           <p className="text-gray-400 mb-12">আপনার আর্থিক ব্যবস্থাপনার সেরা সমাধান</p>
 
           <div className="grid grid-cols-2 gap-4 w-full">
